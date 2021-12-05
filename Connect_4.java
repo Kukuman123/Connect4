@@ -1,4 +1,4 @@
-// Karthik Renuprasad9
+// Karthik Renuprasad
 // Period 1
 // 11/18/2020
 // Connect_4_Main
